@@ -13,7 +13,7 @@ I've built a simple Bottom Navigation app using Jetpack Compose! This project wa
 - Responsive Design: Ensures a great user experience across different screen sizes and orientations.
 
 **Demo**
-![Project Screenshot](assets/img.png)
+![Project Screenshot](app/src/main/assets/img.png)
 
 
 Check out the app in action below:
