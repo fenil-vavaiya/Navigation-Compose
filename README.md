@@ -37,7 +37,8 @@ Follow these steps to clone and run the project locally:
 **Installation**
 1. Clone this repository:
 
-```https://github.com/fenil-vavaiya/Navigation-Compose.git```
+   ```bash
+   https://github.com/fenil-vavaiya/Navigation-Compose.git
 
 2. Open the project in Android Studio.
 
