@@ -1,10 +1,10 @@
-**Bottom Navigation App**
+# Bottom Navigation App 
 
-**Overview**
+## Overview 
 
 I've built a simple Bottom Navigation app using Jetpack Compose! This project was a fun way to dive deeper into Compose and explore how easily it enables the creation of clean and responsive navigation.
 
-**Features**
+## Features 
 
 - Modern UI: Built entirely using Jetpack Compose, showcasing clean and declarative UI design.
 
@@ -12,9 +12,10 @@ I've built a simple Bottom Navigation app using Jetpack Compose! This project wa
 
 - Responsive Design: Ensures a great user experience across different screen sizes and orientations.
 
-**Demo**
-<img src="app/src/main/assets/img.png" alt="Project Screenshot" width="500">
-![Project Screenshot](app/src/main/assets/img.png)
+## Demo 
+| Home | Search | Analytics | Clock | Profile |
+|---|---|---|---|---|
+|<img src="app/src/main/assets/img.png" alt="Project Screenshot" width="400">|
 
 
 Check out the app in action below:
