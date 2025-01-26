@@ -15,10 +15,11 @@ I've built a simple Bottom Navigation app using Jetpack Compose! This project wa
 ## Demo 
 | Home | Search | Analytics | Clock | Profile |
 |---|---|---|---|---|
-|<img src="app/src/main/assets/img.png" alt="Project Screenshot" width="400">|
+|<img src="app/src/main/assets/img.png" alt="Project Screenshot" width="400">|<img src="app/src/main/assets/img_1.png" alt="Project Screenshot" width="400">|<img src="app/src/main/assets/img_2.png" alt="Project Screenshot" width="400">|<img src="app/src/main/assets/img_3.png" alt="Project Screenshot" width="400">|<img src="app/src/main/assets/img_4.png" alt="Project Screenshot" width="400">|
 
 
-Check out the app in action below:
+**Check out the app in action below:**
+[![Demo Video]](https://www.linkedin.com/feed/update/urn:li:activity:7287340908457447424/)
 
 
 **Getting Started**
